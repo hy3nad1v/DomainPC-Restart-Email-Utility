@@ -1,5 +1,5 @@
 ﻿# Set the list of computer names and domain
-$computerNames = @("Computer1", "Computer2")
+$computerNames = @("Computer1", "Computer2", "Computer3", "Computer4")
 $domain = "example.local"
 
 # Function to restart a remote computer
